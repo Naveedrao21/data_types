@@ -10,8 +10,7 @@ fn main() {
     let b = x.1;
     println!("the value of b is :{b}" ) ;
 
-    let _A: () = ();
-    println!("the value of A is :{:?}", _A) ;
+   
 
     let naveed: [u32; 10] = [6; 10];
     println!("the value of naveed is :{:?}", naveed) ;
