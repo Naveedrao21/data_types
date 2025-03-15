@@ -8,4 +8,7 @@ fn main() {
     println!("the value of a is :{a}" ) ;
     let b = x.1;
     println!("the value of b is :{b}" ) ;
+
+    let A: () = ();
+    println!("the value of A is :{:?}", A) ;
 }
